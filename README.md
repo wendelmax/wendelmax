@@ -14,7 +14,8 @@
 ----
 
 ## Sobre Meu GitHub
-<a href="https://github.com/wendelmax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendelmax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelmax&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendelmax&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wendelmax&theme=tokyonight&utcOffset=8)
